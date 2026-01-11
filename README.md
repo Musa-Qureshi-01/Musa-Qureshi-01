@@ -11,51 +11,53 @@ Aspiring Quantitative Researcher
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E1FF&center=true&vCenter=true&width=750&lines=Building+AI%2FML+Systems+Under+Real-World+Constraints;Machine+Learning+%7C+Deep+Learning+%7C+Agentic+AI;Preparing+for+GSoC+2026" />
 </p>
 
----
 
-# ⚙️ Tech Stack
+##  Tech Stack
 
-### 🧩 Core Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+### Core Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
-### 🧠 Machine Learning & AI
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-1A1A1A?style=for-the-badge&logo=numpy&logoColor=013243" />
-  <img src="https://img.shields.io/badge/Pandas-1A1A1A?style=for-the-badge&logo=pandas&logoColor=150458" />
-  <img src="https://img.shields.io/badge/scikit--learn-1A1A1A?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" />
-  <img src="https://img.shields.io/badge/TensorFlow-1A1A1A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/PyTorch-1A1A1A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
+### Python & ML Libraries 
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Regex-777777?style=flat-square"/>
 </p>
 
-
-### 🎨 Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/ReactJS-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </p>
 
-
-### 🤖 Agentic AI & LLM Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangSmith-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agno-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-1A1A1A?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20AI-1A1A1A?style=for-the-badge&logo=google&logoColor=white" />
+### Agentic AI & LLM Systems
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangSmith-6A5ACD?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agno-333333?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
 
-### 🛠 Other Skills & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=009688" />
-  <img src="https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=0db7ed" />
-  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=F05033" />
+### Other Skills & Tools
+<p>
+  <img src="https://img.shields.io/badge/DSA-555555?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
@@ -104,6 +106,70 @@ Aspiring Quantitative Researcher
 
 ---
 
-# 💬 Quote
+## 🌐 Connect With Me
+
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/musa-qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/musa_qureshi_01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
+         width="32" hspace="8"/>
+  </a>
+
+  <!-- Peerlist -->
+  <a href="https://peerlist.io/musa-qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/peerlist.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@musa-qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/musa_qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- HackerEarth -->
+  <a href="https://www.hackerearth.com/@musa-qureshi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerearth.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/musa-qureshi_01" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg"
+         width="34" hspace="8"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://YOUR_PORTFOLIO_WEBSITE" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg"
+         width="34" hspace="8"/>
+  </a>
+</p>
+
+
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"/>
+  </a>
+</p>
+
+---
 
 > **“Depth, consistency, and execution matter more than hype.”**
