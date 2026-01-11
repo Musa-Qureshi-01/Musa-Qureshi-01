@@ -126,13 +126,7 @@ Aspiring Quantitative Researcher
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/peerlist.svg"
          width="34" hspace="8"/>
   </a>
-
-  <!-- Medium -->
-  <a href="https://medium.com/@musa-qureshi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/medium.svg"
-         width="34" hspace="8"/>
-  </a>
-
+  
   <!-- LeetCode -->
   <a href="https://leetcode.com/musa_qureshi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
@@ -152,9 +146,15 @@ Aspiring Quantitative Researcher
   </a>
 
   <!-- Portfolio -->
-  <a href="https://YOUR_PORTFOLIO_WEBSITE" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/googlechrome.svg"
+  <a href="https://musa-qureshi-portfolio.vercel.app/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/3564/3564083.png"
          width="34" hspace="8"/>
+  </a>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@musa-qureshi" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
+
   </a>
 </p>
 
