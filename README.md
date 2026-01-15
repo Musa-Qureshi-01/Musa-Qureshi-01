@@ -11,6 +11,9 @@ Aspiring Quantitative Researcher
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E1FF&center=true&vCenter=true&width=750&lines=Building+AI%2FML+Systems+Under+Real-World+Constraints;Machine+Learning+%7C+Deep+Learning+%7C+Agentic+AI;Preparing+for+GSoC+2026" />
 </p>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=yashrahadve05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for yashrahadve05" /> 
+</p>
 
 ##  Tech Stack
 
@@ -64,10 +67,11 @@ Aspiring Quantitative Researcher
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Musa-Qureshi-01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-Qureshi-01&theme=radical&hide_border=true" height="170"/>
-</p>
+</p> -->
+![](https://nirzak-streak-stats.vercel.app/?user=yashrahadve05&theme=shadow_blue&hide_border=false)<br/>
 
 ---
 
