@@ -12,7 +12,7 @@ Aspiring Quantitative Researcher
 </p>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=yashrahadve05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for yashrahadve05" /> 
+  <img src="https://komarev.com/ghpvc/?username=Musa-Qureshi-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for yashrahadve05" /> 
 </p>
 
 ##  Tech Stack
@@ -71,7 +71,7 @@ Aspiring Quantitative Researcher
   <img src="https://github-readme-stats.vercel.app/api?username=Musa-Qureshi-01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-Qureshi-01&theme=radical&hide_border=true" height="170"/>
 </p> -->
-![](https://nirzak-streak-stats.vercel.app/?user=yashrahadve05&theme=shadow_blue&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Musa-Qureshi-01&theme=shadow_blue&hide_border=false)<br/>
 
 ---
 
