@@ -75,7 +75,7 @@ Aspiring Quantitative Researcher
 
 ---
 
-# 🗺️ Contribution Graph
+# Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Qureshi-01&bg_color=000000&color=FF7CE5&line=00E1FF&point=7CFB7C&hide_border=true">
@@ -101,7 +101,7 @@ Aspiring Quantitative Researcher
 
 ---
 
-# 🧪 Currently Working On
+# Currently Working On
 
 - Machine Translation (Seq2Seq, Deep Learning)
 - Multi-Agent AI systems (LangChain / LangGraph)
@@ -110,7 +110,7 @@ Aspiring Quantitative Researcher
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
   <!-- LinkedIn -->
@@ -166,7 +166,7 @@ Aspiring Quantitative Researcher
 
 ---
 
-## ☕ Support My Work
+## Support My Work
 
 <p align="center">
   <a href="https://buymeacoffee.com/musaqureshi">
