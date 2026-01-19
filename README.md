@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#FF6AD5;">
-Hey, I'm <span style="color:#00E1FF;">Musa Qureshi</span> 👋
+Hi, I'm <span style="color:#00E1FF;">Musa Qureshi</span> 👋
 </h1>
 
 <h3 align="center" style="color:#7CFB7C;">
