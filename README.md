@@ -117,43 +117,43 @@ Aspiring Quantitative Researcher
   <a href="https://www.linkedin.com/in/musa-qureshi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
          width="34" hspace="8"/>
-  </a>
+  </a>&nbsp;
 
   <!-- X (Twitter) -->
   <a href="https://x.com/musa_qureshi_01" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
          width="32" hspace="8"/>
-  </a>
+  </a>&nbsp;
 
   <!-- Peerlist -->
   <a href="https://peerlist.io/musa-qureshi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/peerlist.svg"
          width="34" hspace="8"/>
-  </a>
+  </a>&nbsp;
   
   <!-- LeetCode -->
   <a href="https://leetcode.com/musa_qureshi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
          width="34" hspace="8"/>
-  </a>
+  </a>&nbsp;
 
   <!-- HackerEarth -->
   <a href="https://www.hackerearth.com/@musa-qureshi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerearth.svg"
          width="34" hspace="8"/>
-  </a>
+  </a>&nbsp;
 
   <!-- Kaggle -->
   <a href="https://www.kaggle.com/musa-qureshi_01" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg"
          width="34" hspace="8"/>
-  </a>
+  </a>&nbsp;
 
   <!-- Portfolio -->
   <a href="https://musa-qureshi-portfolio.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/128/3564/3564083.png"
          width="34" hspace="8"/>
-  </a>
+  </a>&nbsp;
   
   <!-- Medium -->
   <a href="https://medium.com/@musa-qureshi" target="_blank">
