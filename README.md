@@ -168,7 +168,7 @@ Aspiring Quantitative Researcher
 
 ## Support My Work
 
-<p align="center">
+<p>
   <a href="https://buymeacoffee.com/musaqureshi">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"/>
   </a>
