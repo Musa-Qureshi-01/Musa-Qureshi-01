@@ -11,7 +11,7 @@ Aspiring Quantitative Researcher
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E1FF&center=true&vCenter=true&width=750&lines=Building+AI%2FML+Systems+Under+Real-World+Constraints;Machine+Learning+%7C+Deep+Learning+%7C+Agentic+AI;Preparing+for+GSoC+2026" />
 </p>
 
-<p align="left"> 
+<p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=Musa-Qureshi-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for yashrahadve05" /> 
 </p>
 
