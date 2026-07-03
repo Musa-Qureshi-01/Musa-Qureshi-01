@@ -1,179 +1,276 @@
-<h1 align="center" style="color:#FF6AD5;">
-Hi, I'm <span style="color:#00E1FF;">Musa Qureshi</span> 👋
-</h1>
+<div align="center">
 
-<h3 align="center" style="color:#7CFB7C;">
-CSE ’27 @ BGI | AI/ML & Agentic AI Engineer | Research-Oriented Developer |
-Aspiring Quantitative Researcher
-</h3>
+# Musa Qureshi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00E1FF&center=true&vCenter=true&width=750&lines=Building+AI%2FML+Systems+Under+Real-World+Constraints;Machine+Learning+%7C+Deep+Learning+%7C+Agentic+AI;Preparing+for+GSoC+2026" />
-</p>
+### AI Engineer | Building Production AI Systems, Enterprise Software & Agentic AI | Codeforces Specialist
 
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=Musa-Qureshi-01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for yashrahadve05" /> 
-</p>
+<br>
 
-##  Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=1E3A8A&center=true&vCenter=true&width=1050&lines=Launching+Editorial.io+Soon;Building+GovernanceAI+for+Enterprise+Security;Researching+Agentic+Case+Intelligence;Writing+the+AI+Security+Series;Contributing+to+Open+Source+Projects;Building+Production+AI+Systems" alt="Typing SVG"/>
 
-### Core Programming Languages
+<br><br>
+
+<a href="https://musa-qureshi.web.app/" target="_blank">
+  <img src="0d99f6ab-c56d-4f70-9062-858e19889e98.png" width="42" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/musaqureshi/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="38" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/Musa_Qureshi_01" target="_blank">
+  <img src="https://cdn.simpleicons.org/x" width="38" alt="X"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://musa-qureshi.medium.com/" target="_blank">
+  <img src="https://cdn.simpleicons.org/medium" width="38" alt="Medium"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Zxo9KccODj/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" alt="LeetCode"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://codeforces.com/profile/Musa06" target="_blank">
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="38" alt="Codeforces"/>
+</a>
+
+</div>
+
+---
+<img align="right" src="https://komarev.com/ghpvc/?username=Musa-Qureshi-01&label=Profile%20Views&color=1E3A8A&style=flat-square"/>
+
+## About 
+
+I'm **Musa Qureshi**, an AI Engineer passionate about building production AI systems that solve real-world problems.
+
+My work spans **Agentic AI**, **Enterprise Software**, **AI Infrastructure**, and **Developer Tools**, with an emphasis on designing reliable, scalable, and maintainable systems through thoughtful engineering rather than prototypes.
+
+I'm currently building **Editorial.io** and **GovernanceAI**, researching **Agentic Case Intelligence**, contributing to open source, and writing about AI security, software engineering, and modern AI systems.
+
+---
+
+# Technical Expertise
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td valign="top" width="50%">
+
+### Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,mysql"/>
 </p>
 
-### Python & ML Libraries 
+Python • C++ • JavaScript • TypeScript • SQL
+
+</td>
+
+<td valign="top" width="50%">
+
+### AI & Agentic Systems
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Regex-777777?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-E8F1FF?style=flat-square&labelColor=E8F1FF&color=E8F1FF"/>
+
+<img src="https://img.shields.io/badge/LangGraph-F4ECFF?style=flat-square&labelColor=F4ECFF&color=F4ECFF"/>
+
+<img src="https://img.shields.io/badge/LangSmith-ECFDF3?style=flat-square&labelColor=ECFDF3&color=ECFDF3"/>
+
+<img src="https://img.shields.io/badge/Agno-FEF9E7?style=flat-square&labelColor=FEF9E7&color=FEF9E7"/>
+
 </p>
 
-### Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/PyTorch-FEF2F2?style=flat-square&labelColor=FEF2F2&color=FEF2F2"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FFF7ED?style=flat-square&labelColor=FFF7ED&color=FFF7ED"/>
+
+<img src="https://img.shields.io/badge/Scikit--learn-EFF6FF?style=flat-square&labelColor=EFF6FF&color=EFF6FF"/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FEF3C7?style=flat-square&labelColor=FEF3C7&color=FEF3C7"/>
+
 </p>
 
-### Agentic AI & LLM Systems
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangSmith-6A5ACD?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agno-333333?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/RAG-F0FDF4?style=flat-square&labelColor=F0FDF4&color=F0FDF4"/>
+
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-F3E8FF?style=flat-square&labelColor=F3E8FF&color=F3E8FF"/>
+
 </p>
 
-### Other Skills & Tools
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### Software Engineering
+
 <p>
-  <img src="https://img.shields.io/badge/DSA-555555?style=flat-square"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs"/>
 </p>
+
+REST APIs • System Design • Microservices • Data Structures & Algorithms
+
+</td>
+
+<td valign="top">
+
+### Infrastructure & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,postgres,redis,aws,terraform,git,github"/>
+</p>
+
+Apache Airflow
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Activity
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Musa-Qureshi-01&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-Qureshi-01&theme=radical&hide_border=true" height="170"/>
-</p> -->
-![](https://nirzak-streak-stats.vercel.app/?user=Musa-Qureshi-01&theme=shadow_blue&hide_border=false)<br/>
+<div align="center"> <img width="49%" src="https://streak-stats.demolab.com?user=Musa-Qureshi-01&theme=transparent&hide_border=true"/> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Qureshi-01&layout=compact&theme=transparent&hide_border=true&langs_count=8"/> <br><br> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Qureshi-01&theme=github-compact&hide_border=true"/> </div>
+
+# Current Work
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<!-- <a href="https://musa-qureshi.web.app/#projects">
+<img align="right"  src="https://img.shields.io/badge/Explore_Project_%E2%86%97-111827?style=flat-square"/>
+</a> -->
+
+### Editorial.io 
+
+AI-native collaborative documentation platform focused on structured authoring, collaborative knowledge management, and intelligent document workflows.
+
+<br>
+
+<a href="https://musa-qureshi.web.app/#projects">
+<img src="https://img.shields.io/badge/Explore_Project_%E2%86%97-111827?style=flat-square"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### GovernanceAI
+
+Enterprise AI governance platform providing policy enforcement, runtime security, observability, and auditability for autonomous AI systems.
+
+<br>
+
+<a href="https://governancexai.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo_%E2%86%97-111827?style=flat-square"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Research - **Agentic Case Intelligence**
+
+Human-in-the-loop framework for enterprise knowledge reasoning, evidence synthesis, and explainable AI decision support.
+
+<br>
+
+<a href="https://musa-qureshi.web.app/editorial/research">
+<img src="https://img.shields.io/badge/Read_Research_%E2%86%97-111827?style=flat-square"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Writing
+
+Technical articles on AI security, enterprise AI infrastructure, and production software engineering.
+
+<br>
+
+<a href="https://musa-qureshi.web.app/editorial/ai-security">
+<img src="https://img.shields.io/badge/AI_Security_Series_%E2%86%97-111827?style=flat-square"/>
+</a>
+
+<a href="https://musa-qureshi.medium.com/why-ai-agents-need-their-own-security-layer-761d743d452b">
+<img src="https://img.shields.io/badge/Latest_Medium_Article_%E2%86%97-111827?style=flat-square"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Quote of the Day
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+
+</div>
 
 ---
 
-# Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Qureshi-01&bg_color=000000&color=FF7CE5&line=00E1FF&point=7CFB7C&hide_border=true">
-</p>
+# Let's Connect
+<div>
 
----
+If you'd like to discuss AI engineering, research, enterprise software, or potential collaborations, feel free to reach out.
 
-# 📈 Profile Summary Charts
+<br>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Musa-Qureshi-01&theme=radical" />
-</p>
+<a href="mailto:musaqureshi0000@gmail.com">
+  <img src="https://img.shields.io/badge/Personal_Email-24292F?style=flat&logo=gmail&logoColor=white"/>
+</a> &nbsp;&nbsp;
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Musa-Qureshi-01&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Musa-Qureshi-01&theme=radical" />
-</p>
+<a href="mailto:musa.qureshi@bandalinstitutes.ac.in">
+  <img src="https://img.shields.io/badge/Academic_Email-24292F?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Musa-Qureshi-01&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Musa-Qureshi-01&theme=radical&utcOffset=5.5" />
-</p>
-
----
-
-# Currently Working On
-
-- Machine Translation (Seq2Seq, Deep Learning)
-- Multi-Agent AI systems (LangChain / LangGraph)
-- AI-powered real-world applications
-- Research-oriented ML problem solving
-
----
-
-## Connect With Me
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/musa-qureshi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
-         width="34" hspace="8"/>
-  </a>&nbsp;
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/musa_qureshi_01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg"
-         width="32" hspace="8"/>
-  </a>&nbsp;
-
-  <!-- Peerlist -->
-  <a href="https://peerlist.io/musa-qureshi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/peerlist.svg"
-         width="34" hspace="8"/>
-  </a>&nbsp;
-  
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/musa_qureshi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg"
-         width="34" hspace="8"/>
-  </a>&nbsp;
-
-  <!-- HackerEarth -->
-  <a href="https://www.hackerearth.com/@musa-qureshi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerearth.svg"
-         width="34" hspace="8"/>
-  </a>&nbsp;
-
-  <!-- Kaggle -->
-  <a href="https://www.kaggle.com/musa-qureshi_01" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/kaggle.svg"
-         width="34" hspace="8"/>
-  </a>&nbsp;
-
-  <!-- Portfolio -->
-  <a href="https://musa-qureshi-portfolio.vercel.app/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/128/3564/3564083.png"
-         width="34" hspace="8"/>
-  </a>&nbsp;
-  
-  <!-- Medium -->
-  <a href="https://medium.com/@musa-qureshi" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
-
-  </a>
-</p>
-
-
-
----
+<br>
 
 ## Support My Work
 
+If you enjoy my projects, research, or technical writing, consider supporting my work.
+
+<br>
 <p>
   <a href="https://buymeacoffee.com/musaqureshi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" height="45"/>
   </a>
 </p>
 
----
+</div>
 
-> **“Depth, consistency, and execution matter more than hype.”**
+---
